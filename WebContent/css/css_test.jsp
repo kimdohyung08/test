@@ -12,7 +12,7 @@
 	font-family: gulim;
 	font-size: 24px;
 }
-/* dddddd */
+
 #idcss {
 	color: #FF0000; /* 빨간색 */
 	background-color: #FFFF00; /* 노란색 */
